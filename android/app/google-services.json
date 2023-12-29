@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680228043839",
+    "project_id": "driver-7a926",
+    "storage_bucket": "driver-7a926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680228043839:android:5fee0f2524e8a8635acc8a",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn3eQO_DhrFSSS02X932JNdv3OFywhQ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
